@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerXp.cs" Line="19" Column="38" />
+      <File FileName="Assets/Scripts/AllayScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AllyGeneratorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Back.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BackgroundRepeat.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BuildingHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyGenerationScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Exit.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FetcherScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FetchGeneratorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InteroundScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MaterialScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerBag.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ProjectileBehaivour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Splash.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpriteChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TurretBehaivour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

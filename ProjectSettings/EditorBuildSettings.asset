@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ada5608c8cded174ea2fc4eb963ef77c
+  - enabled: 1
+    path: Assets/Scenes/PlayScreen.unity
+    guid: 7dc8dc98e73b38d4fbd6ee98accdf350
+  - enabled: 1
+    path: Assets/Scenes/SkillScreen.unity
+    guid: 33c6c08656dd3954a8211411796fdc77
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: a0d63064913ebaf438b7f577daf24534
+  - enabled: 1
+    path: Assets/Scenes/UpgradeScreen.unity
+    guid: 2753f2f126913c14d81c29341c48afd8
